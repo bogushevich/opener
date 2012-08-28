@@ -1,4 +1,5 @@
 #if !defined(__rtdbcon_h)
+//asdfasdfasd
 #define __rtdbcon_h
 
 #include <windows.h>
